@@ -1,0 +1,108 @@
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.exe.config
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.exe
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.pdb
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\bin\Debug\MetroFramework.dll
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csprojResolveAssemblyReference.cache
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Properties.Resources.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csproj.GenerateResource.Cache
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.exe
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.pdb
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.DB.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Firebird.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.MySQL.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.SQLServer.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\bin\Debug\MySql.Data.dll
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\MetroFormDB\MetroFormDB\bin\Debug\MySql.Data.xml
+D:\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.exe.config
+D:\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.exe
+D:\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.pdb
+D:\MetroFormDB\MetroFormDB\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\MetroFormDB\MetroFormDB\bin\Debug\MetroFramework.dll
+D:\MetroFormDB\MetroFormDB\bin\Debug\MetroFramework.Fonts.dll
+D:\MetroFormDB\MetroFormDB\bin\Debug\MySql.Data.dll
+D:\MetroFormDB\MetroFormDB\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\MetroFormDB\MetroFormDB\bin\Debug\MySql.Data.xml
+D:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Firebird.resources
+D:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.DB.resources
+D:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.MySQL.resources
+D:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Properties.Resources.resources
+D:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.SQLServer.resources
+D:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csproj.GenerateResource.Cache
+D:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csproj.CoreCompileInputs.cache
+D:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.exe
+D:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.pdb
+E:\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.exe.config
+E:\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.exe
+E:\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.pdb
+E:\MetroFormDB\MetroFormDB\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+E:\MetroFormDB\MetroFormDB\bin\Debug\MetroFramework.dll
+E:\MetroFormDB\MetroFormDB\bin\Debug\MetroFramework.Fonts.dll
+E:\MetroFormDB\MetroFormDB\bin\Debug\MySql.Data.dll
+E:\MetroFormDB\MetroFormDB\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+E:\MetroFormDB\MetroFormDB\bin\Debug\MySql.Data.xml
+E:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csprojResolveAssemblyReference.cache
+E:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Firebird.resources
+E:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.DB.resources
+E:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.MySQL.resources
+E:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Properties.Resources.resources
+E:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.SQLServer.resources
+E:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csproj.GenerateResource.Cache
+E:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.exe
+E:\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.pdb
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.exe.config
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.exe
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.pdb
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.exe
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.pdb
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MetroFramework.dll
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MySql.Data.dll
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MySql.Data.xml
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csprojResolveAssemblyReference.cache
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Firebird.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.MySQL.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Properties.Resources.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.SQLServer.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csproj.GenerateResource.Cache
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Home.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.CategoriasFirebird.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.CategoriasMySql.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.CategoriasSqlServer.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProductosFirebird.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProductosMySql.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProductosSqlServer.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProveedoresFirebird.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProveedoresMySql.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProveedoresSqlServer.resources
+C:\Users\DELL I7567\Documents\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csproj.CoreCompileInputs.cache
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.exe.config
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.exe
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MetroFormDB.pdb
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MetroFramework.dll
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MySql.Data.dll
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\bin\Debug\MySql.Data.xml
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csprojResolveAssemblyReference.cache
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.CategoriasFirebird.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.CategoriasMySql.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.CategoriasSqlServer.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Firebird.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Home.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.MySQL.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProductosFirebird.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProductosMySql.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProductosSqlServer.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.Properties.Resources.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProveedoresFirebird.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProveedoresMySql.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.ProveedoresSqlServer.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.SQLServer.resources
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csproj.GenerateResource.Cache
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.csproj.CoreCompileInputs.cache
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.exe
+C:\Users\DELL I7567\Documents\UAA\7mo\Bases_de_datos\Segundo_departamental_DB\MetroFormDB\MetroFormDB\obj\Debug\MetroFormDB.pdb
